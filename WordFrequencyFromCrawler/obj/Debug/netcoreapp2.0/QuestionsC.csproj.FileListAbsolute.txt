@@ -1,0 +1,11 @@
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\bin\Debug\netcoreapp2.0\QuestionsC.deps.json
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\bin\Debug\netcoreapp2.0\QuestionsC.runtimeconfig.json
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\bin\Debug\netcoreapp2.0\QuestionsC.runtimeconfig.dev.json
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\bin\Debug\netcoreapp2.0\QuestionsC.dll
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\bin\Debug\netcoreapp2.0\QuestionsC.pdb
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\obj\Debug\netcoreapp2.0\QuestionsC.csprojResolveAssemblyReference.cache
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\obj\Debug\netcoreapp2.0\QuestionsC.csproj.CoreCompileInputs.cache
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\obj\Debug\netcoreapp2.0\QuestionsC.AssemblyInfoInputs.cache
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\obj\Debug\netcoreapp2.0\QuestionsC.AssemblyInfo.cs
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\obj\Debug\netcoreapp2.0\QuestionsC.dll
+G:\Gorlov\_Interview\Project\QuestionsC\QuestionsC\obj\Debug\netcoreapp2.0\QuestionsC.pdb

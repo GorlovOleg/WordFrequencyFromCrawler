@@ -1,0 +1,11 @@
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\bin\Debug\netcoreapp2.0\AssigmentForLintexglobal.deps.json
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\bin\Debug\netcoreapp2.0\AssigmentForLintexglobal.runtimeconfig.json
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\bin\Debug\netcoreapp2.0\AssigmentForLintexglobal.runtimeconfig.dev.json
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\bin\Debug\netcoreapp2.0\AssigmentForLintexglobal.dll
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\bin\Debug\netcoreapp2.0\AssigmentForLintexglobal.pdb
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\obj\Debug\netcoreapp2.0\AssigmentForLintexglobal.csprojResolveAssemblyReference.cache
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\obj\Debug\netcoreapp2.0\AssigmentForLintexglobal.csproj.CoreCompileInputs.cache
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\obj\Debug\netcoreapp2.0\AssigmentForLintexglobal.AssemblyInfoInputs.cache
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\obj\Debug\netcoreapp2.0\AssigmentForLintexglobal.AssemblyInfo.cs
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\obj\Debug\netcoreapp2.0\AssigmentForLintexglobal.dll
+G:\Gorlov\_Interview\Project\AssigmentForLintexglobal\AssigmentForLintexglobal\obj\Debug\netcoreapp2.0\AssigmentForLintexglobal.pdb

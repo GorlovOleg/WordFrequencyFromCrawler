@@ -1,0 +1,11 @@
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\bin\Debug\netcoreapp2.0\WordFrequencyFromCrawler.deps.json
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\bin\Debug\netcoreapp2.0\WordFrequencyFromCrawler.runtimeconfig.json
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\bin\Debug\netcoreapp2.0\WordFrequencyFromCrawler.runtimeconfig.dev.json
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\bin\Debug\netcoreapp2.0\WordFrequencyFromCrawler.dll
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\bin\Debug\netcoreapp2.0\WordFrequencyFromCrawler.pdb
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\obj\Debug\netcoreapp2.0\WordFrequencyFromCrawler.csprojResolveAssemblyReference.cache
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\obj\Debug\netcoreapp2.0\WordFrequencyFromCrawler.csproj.CoreCompileInputs.cache
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\obj\Debug\netcoreapp2.0\WordFrequencyFromCrawler.AssemblyInfoInputs.cache
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\obj\Debug\netcoreapp2.0\WordFrequencyFromCrawler.AssemblyInfo.cs
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\obj\Debug\netcoreapp2.0\WordFrequencyFromCrawler.dll
+G:\Gorlov\_Interview\Project\WordFrequencyFromCrawler\WordFrequencyFromCrawler\obj\Debug\netcoreapp2.0\WordFrequencyFromCrawler.pdb
